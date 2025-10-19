@@ -1,0 +1,9 @@
+Con người: gồm khách hàng đặt món, nhà hàng nhận đơn, tài xế giao hàng và quản trị viên hệ thống.
+
+Dữ liệu: thông tin người dùng, thực đơn, đơn hàng, vị trí giao hàng, lịch sử giao dịch và thanh toán.
+
+Quy trình: khách chọn món → đặt hàng → nhà hàng xác nhận → tài xế nhận đơn → giao hàng → thanh toán.
+
+Phần mềm: ứng dụng đặt món (mobile/web), hệ thống quản lý đơn hàng, phần mềm theo dõi giao hàng, cổng thanh toán online.
+
+Phần cứng: máy chủ lưu trữ, điện thoại của người dùng và tài xế, máy tính của nhà hàng, thiết bị mạng và GPS.

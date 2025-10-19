@@ -1,0 +1,15 @@
+Tác nhân và chức năng:
+• Học viên – đăng ký tài khoản, tham gia khóa học, làm bài và xem điểm.
+• Giảng viên – tạo và quản lý bài học, nhập điểm, theo dõi tiến độ học viên.
+• Admin – quản lý người dùng, theo dõi báo cáo và thống kê hoạt động toàn hệ thống.
+
+Phân loại hệ thống thông tin:
+• TPS (Transaction Processing System) – xử lý các giao dịch như đăng ký, nộp bài, chấm điểm.
+• MIS (Management Information System) – tổng hợp và hiển thị báo cáo, thống kê cho quản trị.
+
+Mô hình phát triển phần mềm phù hợp: Agile – vì hệ thống cần linh hoạt, có nhiều tính năng thay đổi theo yêu cầu trung tâm và người dùng; phát triển theo từng vòng lặp giúp cập nhật và mở rộng dễ dàng.
+
+Ba sơ đồ UML sử dụng:
+• Use Case Diagram – mô tả chức năng và tác nhân hệ thống.
+• Class Diagram – mô tả cấu trúc dữ liệu và mối quan hệ giữa HọcVien, GiangVien, KhoaHoc, BaiHoc.
+• Sequence Diagram – mô tả trình tự tương tác giữa người dùng và hệ thống trong các quy trình như đăng ký hoặc chấm điểm.

@@ -1,0 +1,8 @@
+Giao dịch bán hàng → TPS (Transaction Processing System)
+→ Dùng để ghi nhận, xử lý, và lưu trữ các giao dịch hằng ngày như hóa đơn, thanh toán, đơn hàng,...
+
+Phân tích xu hướng kinh doanh → DSS (Decision Support System)
+→ Dùng để hỗ trợ ra quyết định, phân tích dữ liệu bán hàng, xác định xu hướng tăng/giảm, dự báo doanh số,...
+
+Bảng tổng quan hiệu suất hàng tháng dành cho CEO → EIS (Executive Information System)
+→ Dùng cho lãnh đạo cấp cao, cung cấp thông tin tổng hợp, trực quan (dashboard, biểu đồ) giúp ra quyết định chiến lược.

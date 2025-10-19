@@ -1,0 +1,9 @@
+A: Use Case Diagram – mô tả các chức năng người dùng có thể thực hiện.
+
+B: Class Diagram – mô tả các lớp, thuộc tính, quan hệ giữa NguoiDung, KhoaHoc, BaiHoc.
+
+C: Activity Diagram – mô tả luồng hoạt động từ bắt đầu đến hoàn thành.
+
+D: Deployment Diagram – mô tả cách hệ thống triển khai trên máy chủ và thiết bị.
+
+E: Sequence Diagram – mô tả thứ tự tương tác giữa học viên và hệ thống khi nộp bài.

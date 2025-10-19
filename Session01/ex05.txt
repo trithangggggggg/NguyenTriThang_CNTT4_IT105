@@ -1,0 +1,5 @@
+Planning: xác định mục tiêu xây dựng hệ thống điểm danh tự động bằng QR giúp giảm gian lận và tiết kiệm thời gian, xác định phạm vi gồm giảng viên, sinh viên và phòng đào tạo, lập kế hoạch nhân sự, thời gian và công nghệ (mobile app, server, database).
+
+Requirement Analysis: thu thập yêu cầu từ các bên liên quan, xác định chức năng chính như giảng viên tạo buổi học và mã QR, sinh viên quét mã để điểm danh, phòng đào tạo xem thống kê; mô tả các ca sử dụng (Use Case Diagram) thể hiện mối quan hệ giữa người dùng và hệ thống.
+
+System Design: thiết kế kiến trúc hệ thống gồm ứng dụng di động, máy chủ, cơ sở dữ liệu; thiết kế sơ đồ lớp (Class Diagram) cho các đối tượng như SinhVien, GiangVien, BuoiHoc, DiemDanh; thiết kế giao diện quét QR và trang thống kê cho phòng đào tạo.

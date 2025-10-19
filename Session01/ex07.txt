@@ -1,0 +1,11 @@
+Planning: xác định mục tiêu hệ thống giúp người dân đăng ký tiêm online và trung tâm quản lý thuận tiện; lập kế hoạch nguồn lực, thời gian, ngân sách và công nghệ sử dụng.
+
+Requirement Analysis: thu thập yêu cầu từ trung tâm y tế và người dân; xác định chức năng như đăng ký tiêm, xác nhận lịch, thống kê người đã tiêm/chưa tiêm; phân tích quy trình nghiệp vụ.
+
+Design: thiết kế giao diện web/app thân thiện, cơ sở dữ liệu lưu thông tin người đăng ký, lịch tiêm, tình trạng tiêm; thiết kế sơ đồ kiến trúc và luồng hoạt động.
+
+Implementation: lập trình các chức năng đăng ký, xác nhận lịch, gửi thông báo, cập nhật trạng thái tiêm; kết nối cơ sở dữ liệu và hệ thống xác thực người dùng.
+
+Testing: kiểm thử từng chức năng, kiểm tra tính chính xác của dữ liệu, giao diện, và hiệu năng hệ thống; sửa lỗi trước khi triển khai.
+
+Deployment & Maintenance: triển khai hệ thống cho người dân và trung tâm sử dụng; bảo trì, cập nhật chức năng mới và khắc phục sự cố trong quá trình vận hành.

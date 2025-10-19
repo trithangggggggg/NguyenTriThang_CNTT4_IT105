@@ -1,0 +1,5 @@
+A: Waterfall – vì yêu cầu rõ ràng, ít thay đổi, phù hợp quy trình tuần tự.
+
+B: Agile – vì yêu cầu linh hoạt, cần phản hồi nhanh, phát triển theo vòng lặp.
+
+C: Spiral – vì hệ thống phức tạp, rủi ro cao, cần phân tích và kiểm soát rủi ro từng giai đoạn.
