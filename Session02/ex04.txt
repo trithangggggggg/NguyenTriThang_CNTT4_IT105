@@ -1,0 +1,29 @@
+1. Giới thiệu
+Trình bày tổng quan về hệ thống, mục đích, phạm vi sử dụng và đối tượng người dùng của tài liệu.
+
+2. Mô tả tổng quan
+Mô tả bối cảnh hoạt động của hệ thống, các bên liên quan, các ràng buộc và các giả định ban đầu khi phát triển.
+
+3. Mô tả hệ thống
+Giải thích mục tiêu chính của hệ thống, các chức năng chính, giao diện tổng quát và mối quan hệ giữa các thành phần.
+
+4. Yêu cầu chức năng
+Liệt kê chi tiết các chức năng mà hệ thống cần cung cấp, mô tả đầu vào, đầu ra và hành vi của từng chức năng.
+
+5. Yêu cầu phi chức năng
+Mô tả các yêu cầu về hiệu năng, bảo mật, khả năng mở rộng, tính sẵn sàng, giao diện và các tiêu chuẩn kỹ thuật khác.
+
+6. Ràng buộc thiết kế
+Nêu các yếu tố hạn chế việc thiết kế như công nghệ bắt buộc, môi trường triển khai, quy định bảo mật hoặc ngân sách.
+
+7. Môi trường hệ thống
+Trình bày các thành phần liên quan như phần cứng, phần mềm, người dùng, hệ thống bên ngoài và điều kiện vận hành.
+
+8. Sơ đồ và mô hình
+Cung cấp sơ đồ luồng dữ liệu, sơ đồ chức năng, mô hình quan hệ dữ liệu hoặc các biểu đồ UML minh họa kiến trúc.
+
+9. Tiêu chí kiểm thử và chấp nhận
+Đưa ra điều kiện, phương pháp và tiêu chí dùng để xác nhận rằng hệ thống đáp ứng đúng yêu cầu đặt ra.
+
+10. Phụ lục
+Tập hợp các tài liệu tham khảo, định nghĩa thuật ngữ, tiêu chuẩn hoặc biểu mẫu được sử dụng trong quá trình biên soạn.

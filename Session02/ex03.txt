@@ -1,0 +1,31 @@
+Ứng dụng thương mại điện tử Shopee
+1. Người dùng
+Người mua: tìm kiếm, đặt hàng, thanh toán và theo dõi đơn hàng
+Người bán: đăng sản phẩm, quản lý đơn hàng, xử lý phản hồi và khiếu nại
+Quản trị viên: kiểm duyệt nội dung, xử lý vi phạm, giám sát hệ thống.
+
+2. Phần cứng
+Thiết bị người dùng: điện thoại thông minh, máy tính bảng, máy tính cá nhân
+Máy chủ: trung tâm dữ liệu và hệ thống máy chủ đám mây lưu trữ và xử lý dữ liệu
+Thiết bị hỗ trợ vận hành: máy in vận đơn, thiết bị quét mã vạch, thiết bị định vị
+3. Phần mềm
+Ứng dụng Shopee trên Android, iOS và websitee
+Hệ thống máy chủ quản lý sản phẩm, đơn hàng, thanh toán, chăm sóc khách hàng
+Cơ sở dữ liệu lưu trữ thông tin người dùng, sản phẩm, giao dịch, đánh giá
+Hệ thống trí tuệ nhân tạo hỗ trợ gợi ý sản phẩm, phát hiện gian lận và quảng cáo
+4. Hệ thống bên ngoài
+
+Cổng thanh toán: ShopeePay, MoMo, ZaloPay, ngân hàng liên kết
+Đơn vị vận chuyển: GHN, GHTK, Viettel Post, J&T Express
+Hệ thống quảng cáo và tiếp thị: Google Ads, Facebook Ads, TikTok Ads
+
+5. Quy trình nghiệp vụ
+Quy trình mua hàng: tìm kiếm sản phẩm, đặt hàng, thanh toán, giao hàng, đánh giá
+Quy trình bán hàng: đăng sản phẩm, xác nhận đơn, giao hàng, nhận thanh toán
+Quy trình hỗ trợ: tiếp nhận khiếu nại, xác minh, hoàn tiền hoặc đổi trả
+
+6. Luật lệ và chính sách
+Luật Thương mại điện tử Việt Nam
+Luật Bảo vệ thông tin cá nhân 
+Chính sách hoàn tiền, đổi trả, bảo hành và chống hàng giả
+Quy định về thuế, hóa đơn điện tử và nghĩa vụ người bán

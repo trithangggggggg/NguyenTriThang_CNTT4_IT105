@@ -1,0 +1,31 @@
+Hệ thống đặt món ăn tại quán
+
+1. Giới thiệu
+Trình bày mục đích, phạm vi và đối tượng sử dụng của hệ thống đặt món ăn
+
+2. Tổng quan hệ thống
+Mô tả ngắn về hoạt động của quán, quy trình đặt món và vai trò của các bên liên quan
+
+3. Mục tiêu hệ thống
+Xác định các mục tiêu chính như tăng tốc quy trình đặt món, giảm sai sót và cải thiện trải nghiệm khách hàng
+
+4. Mô tả chức năng hệ thống
+Liệt kê và giải thích các chức năng chính như đăng nhập, đặt món, thanh toán, theo dõi đơn hàng
+
+5. Yêu cầu chức năng
+Trình bày chi tiết từng chức năng, đầu vào, đầu ra và hành vi mong muốn của hệ thống
+
+6. Yêu cầu phi chức năng
+Nêu các yêu cầu về hiệu năng, bảo mật, khả năng mở rộng và độ ổn định của hệ thống
+
+7. Môi trường hệ thống
+Xác định phần cứng, phần mềm, người dùng, quy trình nghiệp vụ và hệ thống liên quan
+
+8. Ràng buộc và giả định
+Mô tả các yếu tố giới hạn như công nghệ, ngân sách, thời gian và những giả định khi thiết kế
+
+9. Kiểm thử và chấp nhận
+Trình bày tiêu chí và phương pháp để kiểm tra, đánh giá và nghiệm thu hệ thống
+
+10. Phụ lục
+Tổng hợp tài liệu tham khảo, định nghĩa thuật ngữ và biểu mẫu sử dụng trong quá trình phát triển.

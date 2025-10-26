@@ -1,0 +1,46 @@
+Báo cáo phân tích : Hệ thống quản lý tuyển dụng
+
+1. Các yếu tố môi trường hệ thống
+
+Người dùng: nhà tuyển dụng, ứng viên, nhân viên nhân sự, quản trị hệ thống
+Phần cứng: máy tính, máy chủ lưu trữ dữ liệu, thiết bị di động truy cập hệ thống
+Phần mềm: trình duyệt web, hệ điều hành, phần mềm quản lý cơ sở dữ liệu, công cụ bảo mật
+Hệ thống bên ngoài: email, mạng xã hội tuyển dụng, hệ thống tính lương và quản lý nhân sự
+Quy trình nghiệp vụ: đăng tuyển, tiếp nhận hồ sơ, sàng lọc, phỏng vấn, đánh giá và tuyển dụng
+Luật lệ và chính sách: quy định lao động, bảo mật thông tin cá nhân, lưu trữ hồ sơ ứng viên
+
+2. Phân tích Stakeholders
+Nhà tuyển dụng: người đăng tin và đánh giá ứng viên, quan tâm đến quy trình nhanh và hiệu quả
+Ứng viên: người nộp hồ sơ, theo dõi trạng thái ứng tuyển, quan tâm đến minh bạch và phản hồi nhanh
+Nhân viên nhân sự: quản lý quy trình tuyển dụng, điều phối phỏng vấn, theo dõi tiến độ
+Quản trị hệ thống: bảo trì, cấp quyền, xử lý lỗi, đảm bảo an toàn dữ liệu
+Ban giám đốc: theo dõi báo cáo, thống kê hiệu quả tuyển dụng, phục vụ ra quyết định
+
+3. Nguồn yêu cầu hệ thống
+Phỏng vấn: thu thập yêu cầu từ nhân sự, quản lý và ứng viên về quy trình tuyển dụng
+Quan sát: theo dõi thực tế quy trình sàng lọc và phỏng vấn tại phòng nhân sự
+Khảo sát: phát bảng hỏi về mức độ hài lòng và nhu cầu cải thiện hệ thống hiện tại
+Phân tích tài liệu: xem các quy trình, biểu mẫu tuyển dụng, và chính sách công ty hiện hành
+
+4. Yêu cầu chức năng và phi chức năng
+Yêu cầu chức năng:
+Hệ thống cho phép đăng tin tuyển dụng và chỉnh sửa nội dung tuyển
+Hệ thống cho phép ứng viên nộp hồ sơ trực tuyến và theo dõi trạng thái
+Hệ thống hỗ trợ nhân viên nhân sự lọc hồ sơ theo tiêu chí, sắp xếp lịch phỏng vấn
+
+Yêu cầu phi chức năng:
+Hệ thống đảm bảo an toàn thông tin cá nhân và mã hóa dữ liệu ứng viên
+Hệ thống có thời gian phản hồi không quá 3 giây cho các thao tác tìm kiếm
+Hệ thống hoạt động ổn định 24h và hỗ trợ nhiều thiết bị truy cập
+
+5. Gợi ý cấu trúc tài liệu mô tả yêu cầu 
+
+Giới thiệu: mục tiêu, phạm vi và đối tượng sử dụng hệ thống
+Tổng quan hệ thống: mô tả quy trình tuyển dụng và các bên liên quan
+Mục tiêu phát triển: các vấn đề cần giải quyết và lợi ích mang lại
+Mô tả chức năng: tóm tắt các chức năng chính của hệ thống
+Yêu cầu chức năng: mô tả chi tiết từng chức năng và điều kiện thực thi
+Yêu cầu phi chức năng: nêu tiêu chuẩn kỹ thuật, bảo mật, hiệu năng
+Môi trường hệ thống: xác định phần cứng, phần mềm và các hệ thống liên kết
+Kiểm thử và chấp nhận: tiêu chí xác nhận hệ thống đạt yêu cầu
+Phụ lục: tài liệu tham khảo, định nghĩa thuật ngữ, biểu mẫu sử dụng

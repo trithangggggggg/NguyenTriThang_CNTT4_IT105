@@ -1,0 +1,7 @@
+Hệ thống: Giao hàng nhanh 
+
+1: Khách hàng: vai trò là người đặt hàng, quan tâm đến tốc độ và độ chính xác giao hàng, mức độ ưu tiên Crittical
+2: Tài xế giao hàng: vai trò là người thực hiện đơn, quan tâm đến định vị chính xác và thu nhập ổn định, mức độ Major
+3: Quản lý hệ thống: vai trò giám sát hoạt động, quan tâm đến hiệu suất, báo cáo và kiểm soát lỗi, mức độ Crittical
+4: Nhân viên hỗ trợ: vai trò xử lý khiếu nại, quan tâm đến thông tin đơn hàng rõ ràng và dễ truy xuất, mức độ Major
+5: Đối tác bán hàng: vai trò cung cấp hàng hóa, quan tâm đến theo dõi đơn và thanh toán nhanh, mức độ Major

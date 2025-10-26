@@ -1,0 +1,10 @@
+ứng dụng ngân hàng
+
+1: yêu cầu chức năng: 
+- đăng kí đăng nhập : xác thực người dùng, xác thực 2 lớp OTP, SMS
+- chuyển khoản nội bộ hoặc app ngân hàng khác: cho phép người dùng chuyển khoản giữa các ngân hàng các nhau, có thể tính phí khi chuyển ngoài app nội bộ
+- lịch sử giao dịch, số dư: có thể tra cứu giao dịch gần đây, và số dư hiện tại
+2: yêu cầu phi chức năng
+- bảo mật: giao dịch được mã hóa, tự động đăng xuất sau 1 thời gian ko sử dụng (3-5p), đề nghị thay đổi mật khẩu (6 tháng)
+- hiệu năng: thời gian phản hồi khi giao dịch ko quá 3s
+- thường trực: luôn hoạt động bất kì thời gian nào 

@@ -1,0 +1,16 @@
+Hệ thống quản lý bệnh viện
+
+1: Yếu tố môi trường:
+- Người dùng: bác sĩ, y tá, bệnh nhân, nhân viên hành chính
+- Phần cứng: máy tính, máy chủ, thiết bị y tế kết nối mạng
+- Phần mềm: hệ điều hành, phần mềm bệnh án, phần mềm thanh toán
+- Hệ thống bên ngoài: bảo hiểm y tế, ngân hàng, Bộ Y tế
+- Quy trình nghiệp vụ: khám bệnh, kê đơn, nhập viện, thanh toán
+- Luật lệ: bảo mật thông tin, quy định lưu trữ hồ sơ, quy định bảo hiểm
+
+2: Tác động đến yêu cầu kỹ thuật:
+-Giao diện dễ dùng, phân quyền người dùng rõ ràng
+- Tương thích nhiều thiết bị, hoạt động ổn định
+- Bảo mật dữ liệu, sao lưu định kỳ
+- Hỗ trợ kết nối API với hệ thống ngoài
+- Tuân thủ quy trình bệnh viện và quy định pháp lý

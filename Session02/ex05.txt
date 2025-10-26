@@ -1,0 +1,23 @@
+1. Phỏng vấn 
+Ưu điểm: Giúp thu thập thông tin chi tiết, nắm rõ yêu cầu và mong muốn thực tế của người dùng
+Hạn chế: Tốn thời gian, phụ thuộc vào kỹ năng phỏng vấn và khả năng diễn đạt của người được hỏi
+Khi nên dùng: Khi cần hiểu sâu về nhu cầu, hành vi và quy trình làm việc của người dùng
+Tình huống ví dụ: Phỏng vấn giáo viên để hiểu cách họ tạo bài giảng trên hệ thống học trực tuyến
+
+2. Quan sát
+Ưu điểm: Ghi nhận hành vi thực tế, giúp phát hiện vấn đề người dùng không nhận ra hoặc không diễn tả được
+Hạn chế: Mất thời gian, dễ gây ảnh hưởng đến hành vi tự nhiên của người dùng nếu họ biết đang bị quan sát
+Khi nên dùng: Khi cần đánh giá mức độ dễ sử dụng hoặc cách người dùng tương tác thật với hệ thống
+Tình huống ví dụ: Quan sát sinh viên thao tác đăng ký khóa học để phát hiện điểm khó sử dụng trong giao diện
+
+3. Quan sát 
+Ưu điểm: Phản ánh hành vi thực tế, tránh sai lệch do người dùng mô tả chủ quan
+Hạn chế: Có thể gây ảnh hưởng đến hành vi tự nhiên của người được quan sát, mất thời gian
+Khi nên dùng: Khi muốn hiểu rõ cách người dùng tương tác thật với hệ thống
+Tình huống ví dụ: Quan sát sinh viên thao tác khi đăng ký khóa học trực tuyến để phát hiện điểm khó sử dụng
+
+4. Phân tích tài liệu
+Ưu điểm: Giúp hiểu quy trình hiện tại, chính sách và quy định mà hệ thống cần tuân thủ
+Hạn chế: Tài liệu có thể lỗi thời hoặc không phản ánh đúng thực tế vận hành
+Khi nên dùng: Khi cần nắm quy trình nghiệp vụ, quy định hoặc dữ liệu lịch sử trước khi thiết kế hệ thống
+Tình huống ví dụ: Phân tích quy định đào tạo, biểu mẫu đăng ký khóa học và báo cáo kết quả học tập hiện hành

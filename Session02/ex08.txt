@@ -1,0 +1,15 @@
+Mua hàng online
+
+1: Mô tả ngắn:
+Người dùng truy cập website hoặc ứng dụng, chọn sản phẩm, thêm vào giỏ hàng, thanh toán, và theo dõi đơn hàng đến khi nhận được hàng.
+
+2: Yêu cầu chức năng:
+- Hệ thống cho phép người dùng đăng ký, đăng nhập và quản lý tài khoản
+- Hệ thống cho phép tìm kiếm, xem chi tiết và thêm sản phẩm vào giỏ hàng
+- Hệ thống hỗ trợ thanh toán trực tuyến qua nhiều phương thức
+- Hệ thống gửi thông báo trạng thái đơn hàng và cho phép theo dõi tiến trình giao hàng
+
+3: Yêu cầu phi chức năng:
+- Hệ thống đảm bảo thời gian phản hồi dưới 3 giây cho mỗi thao tác
+- Hệ thống mã hóa thông tin thanh toán và bảo vệ dữ liệu người dùng
+- Hệ thống hoạt động ổn định 24/7, kể cả trong thời gian cao điểm

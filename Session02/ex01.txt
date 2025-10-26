@@ -1,0 +1,19 @@
+phân loại stakeholder hệ thống học trực tuyến
+
+
+1. người dùng cuối: 
+- học sinh: học bài, làm bài kiểm tra, xem điểm, xem lịch học,..
+- giáo viên: đẩy video bài giảng, bài kiểm tra quizz, chấm điểm, theo dõi tiến độ,..
+- quản trị viên: quản lý tài khoản, tài nguyên học tập, theo dõi hoạt động của hệ thống,..
+2. Sponsor:
+- Trung tâm đào tạo: cung cấp ngân sách để phát triển, bào trì hệ thống
+3. chuyên gia nghiệp vụ:
+- chuyên viên đào tạo: xác định quy trình đào tạo, chuẩn đầu ra
+- chuyên viên thiết kế chương trình học: cấu trúc môn học, đề thi đảm bảo nội dung, tiến độ phù hợp với lộ trình, quy định giáo dục
+- chuyên viên phòng công tác sinh viên: láng nghe ý kiến sinh viên, nâng cấp, bảo trì hệ thống
+4. Bộ phân kĩ thuật : 
+- lập trình viên: thiết thế, phát triển, triển khai, bảo trì hệ thống 
+- hỗ trợ hệ thống: khi người dùng cuối gặp vấn đề phía hệ thống,.. 
+- quản lý hệ thống: đảm bảo hệ thống luôn hoạt động ổn dịnh, hiệu quả, đảm bảm tính bảo mật người dùng
+5. Bên thứ 3:
+- những app hỗ trợ : hỗ trợ trao đổi giảng viên và sinh viên, sinh viên và nhà bảo trì hệ thống, học online,..
